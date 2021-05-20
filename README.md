@@ -11,7 +11,6 @@ I am competitive and want to be the best at what I do, which is why I'm always l
 <br>
 
 ## Technologies and Tools 🛠
----
 
 ![OS](https://img.shields.io/badge/OS-MacOS-blueviolet?style=flat&logo=macOS&labelColor=black)
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blueviolet?style=flat&logo=Visual-Studio-Code&labelColor=black&logoColor=blue)
@@ -24,14 +23,12 @@ I am competitive and want to be the best at what I do, which is why I'm always l
 
 
 ## Other fun stuff <img src="rubberduck.png" width="24" />
----
 
 I'm currently hovering around #50 on the leader board over on Codewars
 
 [![Codewars](https://www.codewars.com/users/omegahm/badges/large)](https://www.codewars.com/users/omegahm "Codewars")
 
 ## Find me 💌
----
 
 [![GitHub](https://img.shields.io/github/followers/omegahm?style=social)](https://github.com/omegahm)
 
