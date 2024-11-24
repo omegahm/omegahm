@@ -29,13 +29,3 @@ Previous work places include Elastic and Shopify.
 I enjoy code challenges and puzzles, such as those on [Codewars.com](https://www.codewars.com/).
 
 [![Codewars](https://www.codewars.com/users/omegahm/badges/small)](https://www.codewars.com/users/omegahm "Codewars")
-
-<br>
-
-## Find me 💌
-
-[![GitHub](https://img.shields.io/github/followers/omegahm?style=social)](https://github.com/omegahm)
-
-[![Twitter](https://img.shields.io/twitter/follow/madsohm?style=social)](https://twitter.com/madsohm)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mads-blueviolet?style=social&logo=LinkedIn&labelColor=black)](https://www.linkedin.com/in/madsohm/)
